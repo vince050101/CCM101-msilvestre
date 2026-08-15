@@ -12,18 +12,31 @@ This portfolio contains all of my laboratory activities, projects, notes, and re
 
 CCM101-msilvestre/
 │
+
 ├── README.md # Portfolio overview
+
 │
+
 └── Laboratory-01-Welcome-to-the-Cloud/
+
 ├── README.md # Activity documentation
+
 ├── system-information.md # System info report
+
 ├── about-me.md # Personal introduction
+
 ├── reflection.md # Learning reflection
+
 └── screenshots/ # Activity evidence
+
 ├── checkpoint-1.png
+  
 ├── checkpoint-2.png
+  
 ├── checkpoint-3.png
+  
 ├── checkpoint-4.png
+  
 └── checkpoint-5.png
 
 
@@ -40,7 +53,7 @@ CCM101-msilvestre/
 | Field | Details |
 |---|---|
 | **Course** | Cloud Computing CCM101 |
-| **Year** | 2026-2027 |
+| **School Year** | 2026-2027 |
 | **Instructor** | Jenkielyn Torres |
 | **Section** | 4I |
 
